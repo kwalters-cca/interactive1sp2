@@ -1,0 +1,18 @@
+body {
+	background-color: yellow;
+	font-family: Helvetica, sans-serif;
+}
+
+h1 {
+	font-family: 'Lobster Two', cursive;
+	font-size: 30px;
+	text-align: right;
+	font-weight: normal;
+}
+
+p {
+	font-size: 3px;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	text-align: center;
+	color: red;
+}
